@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faq-horario",
+    "question": "¿Cuál es el horario de atención?",
+    "answer": "Atendemos de lunes a sábado de 7:00 a.m. a 5:00 p.m. Para casos de suma urgencia en la Sabana de Bogotá también atendemos fuera de este horario, con un costo adicional por la urgencia."
+  },
+  {
+    "id": "faq-zona",
+    "question": "¿En qué zonas prestan el servicio?",
+    "answer": "Estamos ubicados en Chía, Cundinamarca, y atendemos en Chía y en toda la Sabana de Bogotá, incluyendo recogida y entrega de equipos a domicilio."
+  },
+  {
+    "id": "faq-diagnostico",
+    "question": "¿El diagnóstico tiene costo?",
+    "answer": "La revisión básica, sin abrir el equipo, es completamente gratis. Si el caso requiere una revisión profunda con apertura del equipo, tiene un costo de $30.000."
+  },
+  {
+    "id": "faq-precios",
+    "question": "¿Los precios publicados son definitivos?",
+    "answer": "Son precios de referencia. El valor final puede variar según el modelo del equipo, el componente requerido, la capacidad, la marca, la complejidad del servicio y la disponibilidad. Siempre te confirmamos el precio exacto antes de realizar cualquier trabajo."
+  },
+  {
+    "id": "faq-garantia",
+    "question": "¿Los servicios y productos tienen garantía?",
+    "answer": "Sí. Cada servicio que realizamos queda respaldado por una garantía, y los repuestos, componentes y licencias que vendemos cuentan con la garantía del fabricante correspondiente."
+  },
+  {
+    "id": "faq-que-llevar",
+    "question": "¿Qué debo llevar cuando entrego mi equipo?",
+    "answer": "Para computadores portátiles, te pedimos llevar también el cargador. Si vas a solicitar recogida a domicilio, solo coordina con nosotros la dirección y el horario por WhatsApp."
+  },
+  {
+    "id": "faq-licencias",
+    "question": "¿Las licencias de software que instalan son originales?",
+    "answer": "Sí, trabajamos con licencias originales de Microsoft, ESET, Norton y Bitdefender, entre otras. El costo de la licencia se cobra por separado del costo de instalación en algunos servicios; te lo indicamos claramente antes de cobrar."
+  },
+  {
+    "id": "faq-cotizar",
+    "question": "¿Cómo cotizo un servicio o producto?",
+    "answer": "Puedes escribirnos directamente por WhatsApp usando el botón de cualquier página del sitio. Al hacerlo desde una ficha de producto o servicio, el mensaje ya incluye el nombre y el código exacto de lo que te interesa, para atenderte más rápido."
+  }
+]

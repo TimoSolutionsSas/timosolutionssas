@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cat-serv-mantenimiento",
+    "name": "Mantenimiento",
+    "slug": "mantenimiento",
+    "image": "/images/categories/mantenimiento.jpg",
+    "description": "Limpieza, diagnóstico y mantenimiento preventivo para que tu equipo funcione como nuevo.",
+    "enabled": true
+  },
+  {
+    "id": "cat-serv-reparacion",
+    "name": "Reparación y soporte",
+    "slug": "reparacion",
+    "image": "/images/categories/reparacion.jpg",
+    "description": "Soporte técnico para solucionar fallas de hardware o software en tu equipo.",
+    "enabled": true
+  },
+  {
+    "id": "cat-serv-actualizacion",
+    "name": "Mejora y actualización",
+    "slug": "actualizacion-hardware",
+    "image": "/images/categories/actualizacion-hardware.jpg",
+    "description": "Instalación de RAM, SSD y componentes que aceleran el rendimiento de tu equipo.",
+    "enabled": true
+  },
+  {
+    "id": "cat-serv-software",
+    "name": "Instalación de software",
+    "slug": "instalacion-software",
+    "image": "/images/categories/instalacion-software.jpg",
+    "description": "Instalación de sistema operativo, controladores, programas y licencias.",
+    "enabled": true
+  },
+  {
+    "id": "cat-serv-formateo",
+    "name": "Formateo y optimización",
+    "slug": "formateo-y-optimizacion",
+    "image": "/images/categories/formateo-y-optimizacion.jpg",
+    "description": "Formateo, configuración y optimización de Windows para máximo rendimiento.",
+    "enabled": true
+  },
+  {
+    "id": "cat-serv-recuperacion",
+    "name": "Recuperación de datos",
+    "slug": "recuperacion-de-datos",
+    "image": "/images/categories/recuperacion-de-datos.jpg",
+    "description": "Recuperación y respaldo de tu información importante.",
+    "enabled": true
+  },
+  {
+    "id": "cat-prod-laptops",
+    "name": "Laptops",
+    "slug": "laptops",
+    "image": "/images/categories/laptops.jpg",
+    "description": "Computadores portátiles nuevos y reacondicionados.",
+    "enabled": false
+  },
+  {
+    "id": "cat-prod-escritorio",
+    "name": "Computadores de escritorio",
+    "slug": "computadores-de-escritorio",
+    "image": "/images/categories/computadores-de-escritorio.jpg",
+    "description": "Equipos de escritorio armados a la medida.",
+    "enabled": false
+  },
+  {
+    "id": "cat-prod-repuestos",
+    "name": "Repuestos",
+    "slug": "repuestos",
+    "image": "/images/categories/repuestos.jpg",
+    "description": "Memorias RAM, discos SSD y componentes originales o compatibles con garantía.",
+    "enabled": true
+  },
+  {
+    "id": "cat-prod-perifericos",
+    "name": "Periféricos",
+    "slug": "perifericos",
+    "image": "/images/categories/perifericos.jpg",
+    "description": "Teclados, mouse, cámaras y accesorios para tu equipo.",
+    "enabled": false
+  },
+  {
+    "id": "cat-prod-software",
+    "name": "Software y licencias",
+    "slug": "software-y-licencias",
+    "image": "/images/categories/software-y-licencias.jpg",
+    "description": "Licencias originales de sistema operativo, ofimática y antivirus, con instalación incluida.",
+    "enabled": true
+  },
+  {
+    "id": "cat-prod-accesorios",
+    "name": "Accesorios",
+    "slug": "accesorios",
+    "image": "/images/categories/accesorios.jpg",
+    "description": "Accesorios y complementos para tu equipo.",
+    "enabled": false
+  }
+]

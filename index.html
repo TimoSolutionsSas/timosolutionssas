@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#0B1E3D" />
+
+    <title>TI.MO SOLUTIONS | Mantenimiento y Tecnología para tu Computador</title>
+    <meta
+      name="description"
+      content="Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio en Chía y la Sabana de Bogotá. Diagnóstico, repuestos y soporte técnico confiable."
+    />
+    <meta
+      name="keywords"
+      content="mantenimiento de computadores, servicio técnico portátiles, actualización RAM SSD, formateo de PC, Chía, Cundinamarca, TI.MO SOLUTIONS"
+    />
+    <meta name="author" content="TI.MO SOLUTIONS" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://timosolutionssas.github.io/timosolutionssas/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="TI.MO SOLUTIONS" />
+    <meta property="og:title" content="TI.MO SOLUTIONS | Mantenimiento y Tecnología para tu Computador" />
+    <meta
+      property="og:description"
+      content="Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio en Chía y la Sabana de Bogotá."
+    />
+    <meta property="og:image" content="https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png" />
+    <meta property="og:url" content="https://timosolutionssas.github.io/timosolutionssas/" />
+    <meta property="og:locale" content="es_CO" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="TI.MO SOLUTIONS | Mantenimiento y Tecnología para tu Computador" />
+    <meta
+      name="twitter:description"
+      content="Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio en Chía y la Sabana de Bogotá."
+    />
+    <meta name="twitter:image" content="https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png" />
+
+    <!-- JSON-LD LocalBusiness -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ElectronicsStore",
+        "name": "TI.MO SOLUTIONS",
+        "image": "https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png",
+        "url": "https://timosolutionssas.github.io/timosolutionssas/",
+        "telephone": "+573203935186",
+        "email": "timosolutionssas@hotmail.com",
+        "priceRange": "$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Conjunto San Valentín, Barrio El Cairo",
+          "addressLocality": "Chía",
+          "addressRegion": "Cundinamarca",
+          "addressCountry": "CO"
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "07:00",
+          "closes": "17:00"
+        },
+        "sameAs": ["https://www.tiktok.com/@timosolutions"]
+      }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- SPA redirect fix para GitHub Pages (rafgraph/spa-github-pages) -->
+    <script>
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          window.history.replaceState(
+            null,
+            null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      })(window.location);
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

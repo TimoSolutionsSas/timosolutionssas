@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ben-diagnostico",
+    "title": "Diagnóstico básico sin costo",
+    "description": "Revisamos tu equipo sin abrirlo y sin costo, para decirte con claridad qué necesita antes de cobrarte cualquier cosa.",
+    "icon": "FiSearch"
+  },
+  {
+    "id": "ben-domicilio",
+    "title": "Recogida y entrega a domicilio",
+    "description": "Atendemos en Chía y en toda la Sabana de Bogotá, con recogida y entrega de tu equipo cuando lo necesites.",
+    "icon": "FiTruck"
+  },
+  {
+    "id": "ben-urgencias",
+    "title": "Atención de urgencias",
+    "description": "Casos de suma urgencia en la Sabana de Bogotá, fuera del horario habitual, con un costo adicional por la atención prioritaria.",
+    "icon": "FiZap"
+  },
+  {
+    "id": "ben-garantia",
+    "title": "Garantía sobre cada servicio",
+    "description": "Todo servicio que realizamos queda respaldado por una garantía, para que tengas la tranquilidad de que quedó bien hecho.",
+    "icon": "FiShield"
+  },
+  {
+    "id": "ben-repuestos",
+    "title": "Repuestos y licencias originales",
+    "description": "Trabajamos con componentes y licencias de marcas reconocidas como Kingston, Crucial, Adata, Microsoft, ESET, Norton y Bitdefender.",
+    "icon": "FiCheckCircle"
+  },
+  {
+    "id": "ben-whatsapp",
+    "title": "Atención directa por WhatsApp",
+    "description": "Cotiza, pregunta y da seguimiento a tu servicio directamente por WhatsApp, sin formularios largos ni esperas.",
+    "icon": "FiMessageCircle"
+  }
+]
