@@ -35,6 +35,7 @@ export const SERVICE_CATEGORY_SLUGS: CatalogCategory[] = [
   "instalacion-software",
   "formateo-y-optimizacion",
   "recuperacion-de-datos",
+  "paginas-web",
 ];
 
 export const PRODUCT_CATEGORY_SLUGS: CatalogCategory[] = [

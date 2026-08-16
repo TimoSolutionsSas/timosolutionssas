@@ -174,18 +174,14 @@ export default function Laptop3D() {
                     <p className="text-sm text-white/70">
                       {activePartData.description}
                     </p>
-                    {activePartData.relatedService && (
-                      <a
-                        href={buildWhatsAppUrl(
-                          `Hola, quiero cotizar: ${activePartData.relatedService}.`
-                        )}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="focus-ring mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-xs font-semibold text-white hover:bg-[#1ebe57]"
-                      >
-                        <FaWhatsapp /> Cotizar: {activePartData.relatedService}
-                      </a>
-                    )}
+                    <a
+                      href={buildWhatsAppUrl(activePartData.whatsappMessage)}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="focus-ring mt-3 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-xs font-semibold text-white hover:bg-[#1ebe57]"
+                    >
+                      <FaWhatsapp /> Cotizar {activePartData.label.toLowerCase()}
+                    </a>
                   </motion.div>
                 ) : null}
               </AnimatePresence>

@@ -159,7 +159,7 @@ export function ProductDetail() {
                 )}
               </motion.div>
 
-              {isService && (
+              {isService && item.category !== "paginas-web" && (
                 <motion.p variants={fadeUp} className="text-sm text-foreground-muted">
                   Si tu equipo es un portátil, recuerda traerlo junto con su
                   cargador.

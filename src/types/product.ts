@@ -6,7 +6,8 @@ export type ServiceCategory =
   | "actualizacion-hardware"
   | "instalacion-software"
   | "formateo-y-optimizacion"
-  | "recuperacion-de-datos";
+  | "recuperacion-de-datos"
+  | "paginas-web";
 
 export type ProductCategory =
   | "laptops"

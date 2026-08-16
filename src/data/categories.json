@@ -48,6 +48,14 @@
     "enabled": true
   },
   {
+    "id": "cat-serv-paginas-web",
+    "name": "Páginas web",
+    "slug": "paginas-web",
+    "image": "/images/categories/paginas-web.jpg",
+    "description": "Diseño y desarrollo de páginas web a la medida, desde sitios informativos hasta soluciones con inventario y carrito de pedido por WhatsApp.",
+    "enabled": true
+  },
+  {
     "id": "cat-prod-laptops",
     "name": "Laptops",
     "slug": "laptops",
