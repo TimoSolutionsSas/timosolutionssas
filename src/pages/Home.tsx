@@ -2,6 +2,7 @@ import { SEO } from "@/components/common/SEO";
 import { Hero } from "@/components/home/Hero";
 import { CompanyIntro } from "@/components/home/CompanyIntro";
 import { Benefits } from "@/components/home/Benefits";
+import { DeclaraTeaser } from "@/components/home/DeclaraTeaser";
 import { Laptop3DTeaser } from "@/components/home/Laptop3DTeaser";
 import { FeaturedItems } from "@/components/home/FeaturedItems";
 import { Categories } from "@/components/home/Categories";
@@ -21,6 +22,7 @@ export function Home() {
       <Hero />
       <CompanyIntro />
       <Benefits />
+      <DeclaraTeaser />
       <Laptop3DTeaser />
       <FeaturedItems />
       <Categories />

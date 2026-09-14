@@ -179,7 +179,7 @@ export function Navbar() {
                   )}
                 >
                   <FiBox size={15} />
-                  Experiencia 3D
+                  3D
                   <span className="rounded-full bg-accent px-1.5 py-0.5 text-[10px] font-bold uppercase text-secondary">
                     Nuevo
                   </span>

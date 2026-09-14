@@ -30,6 +30,7 @@ export const SITE = {
 export const NAV_LINKS: NavLink[] = [
   { label: "Inicio", path: "/" },
   { label: "Catálogo", path: "/catalogo" },
+  { label: "DeclaraSinMiedo", path: "/declarasinmiedo" },
   { label: "Nosotros", path: "/nosotros" },
   { label: "Contacto", path: "/contacto" },
 ];

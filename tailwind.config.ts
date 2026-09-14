@@ -33,6 +33,10 @@ export default {
       fontFamily: {
         display: ["Space Grotesk", "sans-serif"],
         sans: ["Inter", "sans-serif"],
+        // Serifa institucional, solo para la página de DeclaraSinMiedo: es la
+        // voz del argumento (documento tributario), frente a Inter que es la
+        // voz del producto.
+        serif: ["Spectral", "Georgia", "serif"],
       },
       boxShadow: {
         card: "0 4px 24px -4px rgba(11, 30, 61, 0.12)",

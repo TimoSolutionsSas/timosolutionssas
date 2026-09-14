@@ -17,6 +17,10 @@ import { NotFound } from "@/pages/NotFound";
 // sitio no carga ni un byte de la librería 3D.
 const Laptop3D = lazy(() => import("@/pages/Laptop3D"));
 
+// Página de producto de DeclaraSinMiedo: también en su propio chunk, para que
+// no cargue en la navegación normal del sitio.
+const DeclaraSinMiedo = lazy(() => import("@/pages/DeclaraSinMiedo"));
+
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
 
@@ -38,6 +42,14 @@ export default function App() {
               element={
                 <Suspense fallback={<InitialLoader />}>
                   <Laptop3D />
+                </Suspense>
+              }
+            />
+            <Route
+              path="/declarasinmiedo"
+              element={
+                <Suspense fallback={<InitialLoader />}>
+                  <DeclaraSinMiedo />
                 </Suspense>
               }
             />

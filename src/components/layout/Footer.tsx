@@ -44,6 +44,11 @@ export function Footer() {
               </li>
             ))}
             <li>
+              <Link to="/declarasinmiedo" className="text-white/60 hover:text-accent">
+                DeclaraSinMiedo
+              </Link>
+            </li>
+            <li>
               <a
                 href={assetUrl("/laptop-3d")}
                 target="_blank"
