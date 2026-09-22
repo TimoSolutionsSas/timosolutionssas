@@ -1,320 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado por scripts/generar-sitemap.mjs. No editar a mano. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://timosolutionssas.github.io/timosolutionssas/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/nosotros</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/contacto</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/declarasinmiedo/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/nosotros/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/contacto/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/mantenimiento-preventivo-pc-escritorio</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/laptop-3d/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/mantenimiento-preventivo-pc-escritorio/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/mantenimiento-preventivo-portatil</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/mantenimiento-preventivo-portatil/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/limpieza-profunda</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/limpieza-profunda/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/cambio-de-pasta-termica</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/cambio-de-pasta-termica/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/diagnostico-y-revision</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/diagnostico-y-revision/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/solucion-de-problemas-de-rendimiento</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/solucion-de-problemas-de-rendimiento/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-memoria-ram</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-memoria-ram/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-ssd</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-ssd/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-ssd-m2</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-ssd-m2/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/migracion-de-sistema-a-ssd</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/migracion-de-sistema-a-ssd/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-disipador-cpu</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-disipador-cpu/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-sistema-operativo</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-sistema-operativo/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-controladores</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-controladores/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-programas</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/instalacion-de-programas/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/configuracion-de-software</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/configuracion-de-software/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/configuracion-de-perifericos</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/configuracion-de-perifericos/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/formateo-y-configuracion</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/formateo-y-configuracion/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/optimizacion-de-windows</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/optimizacion-de-windows/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/eliminacion-de-malware</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/eliminacion-de-malware/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/recuperacion-de-informacion</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/recuperacion-de-informacion/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/respaldo-de-informacion</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/respaldo-de-informacion/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/soporte-tecnico</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/soporte-tecnico/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-4gb-ddr4-2666mhz-sodimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-4gb-ddr4-2666mhz-sodimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-2666mhz-sodimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-2666mhz-sodimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-3200mhz-sodimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-3200mhz-sodimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr4-3200mhz-sodimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr4-3200mhz-sodimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-3200mhz-udimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-8gb-ddr4-3200mhz-udimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr4-3200mhz-udimm</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr4-3200mhz-udimm/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr5-4800-5200mhz</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ram-16gb-ddr5-4800-5200mhz/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-240gb-sata</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-240gb-sata/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-480gb-500gb-sata</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-480gb-500gb-sata/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-1tb-sata</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-1tb-sata/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-256gb</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-256gb/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-500gb</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-500gb/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-1tb</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-1tb/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-2tb</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/ssd-m2-nvme-2tb/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/windows-11-home</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/windows-11-home/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-personal</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-personal/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-familia</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-familia/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-empresa-basico</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/microsoft-365-empresa-basico/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/eset-nod32-antivirus</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/eset-nod32-antivirus/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/norton-antivirus-plus</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/norton-antivirus-plus/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/bitdefender-antivirus-plus</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/bitdefender-antivirus-plus/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-informativa</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-informativa/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-whatsapp-premium</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-whatsapp-premium/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-interactiva-personalizada</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-interactiva-personalizada/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-con-inventario</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-estatica-con-inventario/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-carrito-pedido-whatsapp</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-carrito-pedido-whatsapp/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-premium-plano-electrico-3d</loc>
-    <lastmod>2026-08-16</lastmod>
+    <loc>https://timosolutionssas.github.io/timosolutionssas/catalogo/pagina-web-premium-plano-electrico-3d/</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

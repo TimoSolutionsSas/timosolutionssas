@@ -4,6 +4,9 @@ import { assetUrl } from "@/utils/assetUrl";
 export function InitialLoader() {
   return (
     <motion.div
+      // El pre-renderizado busca este atributo para saber si una ruta se
+      // quedó en el fallback de <Suspense> en vez de renderizar su contenido.
+      data-initial-loader=""
       initial={{ opacity: 1 }}
       exit={{ opacity: 0 }}
       transition={{ duration: 0.4 }}

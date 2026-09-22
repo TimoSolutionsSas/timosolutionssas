@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { FiX } from "react-icons/fi";
@@ -19,6 +19,13 @@ export function Modal({
   children,
   size = "md",
 }: ModalProps) {
+  // createPortal necesita `document`, que no existe durante el
+  // pre-renderizado a HTML estático del build. El portal solo se monta ya en
+  // el navegador; en el HTML generado el modal simplemente no aparece, que es
+  // lo correcto: nace cerrado.
+  const [enNavegador, setEnNavegador] = useState(false);
+  useEffect(() => setEnNavegador(true), []);
+
   useEffect(() => {
     if (!isOpen) return;
     const originalOverflow = document.body.style.overflow;
@@ -34,6 +41,8 @@ export function Modal({
       window.removeEventListener("keydown", onKeyDown);
     };
   }, [isOpen, onClose]);
+
+  if (!enNavegador) return null;
 
   return createPortal(
     <AnimatePresence>

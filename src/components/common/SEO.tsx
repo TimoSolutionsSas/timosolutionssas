@@ -11,7 +11,15 @@ export function SEO({
   type = "website",
 }: SEOProps) {
   const fullTitle = `${title} | ${SITE.name}`;
-  const url = `${SITE.url}${path}`;
+
+  // GitHub Pages sirve cada ruta desde su carpeta (.../catalogo/index.html) y
+  // redirige la forma sin barra final a la forma con barra. Declarar el
+  // canonical ya con la barra evita que la URL canónica de cada página sea
+  // justamente una que redirige.
+  const url =
+    path === "" || path === "/"
+      ? `${SITE.url}/`
+      : `${SITE.url}${path.endsWith("/") ? path : `${path}/`}`;
   const ogImage = image ?? `${SITE.url}/images/logo.png`;
 
   return (

@@ -19,6 +19,11 @@
     />
     <meta name="author" content="TI.MO SOLUTIONS" />
     <meta name="robots" content="index, follow" />
+
+    <!-- Verificación de Google Search Console.
+         Pega aquí la etiqueta que te da Search Console al crear la propiedad
+         (Configuración -> Verificación -> Etiqueta HTML) y vuelve a publicar:
+         <meta name="google-site-verification" content="TU_CODIGO" /> -->
     <link rel="canonical" href="https://timosolutionssas.github.io/timosolutionssas/" />
 
     <!-- Open Graph -->
@@ -29,7 +34,7 @@
       property="og:description"
       content="Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio en Chía y la Sabana de Bogotá."
     />
-    <meta property="og:image" content="https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png" />
+    <meta property="og:image" content="https://timosolutionssas.github.io/timosolutionssas/images/logo.png" />
     <meta property="og:url" content="https://timosolutionssas.github.io/timosolutionssas/" />
     <meta property="og:locale" content="es_CO" />
 
@@ -40,7 +45,7 @@
       name="twitter:description"
       content="Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio en Chía y la Sabana de Bogotá."
     />
-    <meta name="twitter:image" content="https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png" />
+    <meta name="twitter:image" content="https://timosolutionssas.github.io/timosolutionssas/images/logo.png" />
 
     <!-- JSON-LD LocalBusiness -->
     <script type="application/ld+json">
@@ -48,7 +53,7 @@
         "@context": "https://schema.org",
         "@type": "ElectronicsStore",
         "name": "TI.MO SOLUTIONS",
-        "image": "https://timosolutionssas.github.io/timosolutionssas/resources/LogoTimoSolutions.png",
+        "image": "https://timosolutionssas.github.io/timosolutionssas/images/logo.png",
         "url": "https://timosolutionssas.github.io/timosolutionssas/",
         "telephone": "+573203935186",
         "email": "timosolutionssas@hotmail.com",
@@ -69,6 +74,22 @@
         "sameAs": ["https://www.tiktok.com/@timosolutions"]
       }
     </script>
+
+    <!-- Las animaciones de entrada (framer-motion) dejan el elemento en
+         opacity:0 hasta que el JavaScript las ejecuta. Como el sitio se
+         publica pre-renderizado, ese estilo viaja dentro del HTML: un
+         rastreador que no ejecute JavaScript vería el texto marcado como
+         invisible. Esta regla solo se aplica cuando no hay JavaScript, así
+         que el contenido se lee igual y la animación para el visitante real
+         no cambia en nada. -->
+    <noscript>
+      <style>
+        [style*="opacity:0"] {
+          opacity: 1 !important;
+          transform: none !important;
+        }
+      </style>
+    </noscript>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
