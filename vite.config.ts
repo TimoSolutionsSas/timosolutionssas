@@ -17,6 +17,17 @@ export default defineConfig(({ mode, isSsrBuild }) => ({
       VitePWA({
         registerType: "autoUpdate",
         includeAssets: ["favicon.svg", "apple-touch-icon.png"],
+        workbox: {
+          // Workbox, por defecto, responde index.html a CUALQUIER navegación.
+          // Eso tenía sentido cuando index.html era el único archivo, pero
+          // ahora cada ruta es un HTML real pre-renderizado (ver
+          // scripts/prerender.mjs) y el desvío causaba dos problemas: abrir
+          // /sitemap.xml o /robots.txt en el navegador mostraba la página de
+          // error del sitio, y quien ya tuviera el sitio en caché recibía la
+          // portada en el primer pintado de todas las rutas. Sin desvío, cada
+          // dirección recibe su propio archivo.
+          navigateFallback: null,
+        },
         manifest: {
           name: "TI.MO SOLUTIONS",
           short_name: "TI.MO",
