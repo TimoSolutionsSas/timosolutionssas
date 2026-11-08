@@ -6,7 +6,8 @@ export const SITE = {
   tagline: "Mantenimiento y tecnología para tu computador",
   description:
     "Mantenimiento, actualización y venta de software y hardware para computadores portátiles y de escritorio, en Chía y la Sabana de Bogotá.",
-  url: "https://timosolutionssas.github.io/timosolutionssas",
+  //url: "https://timosolutionssas.github.io/timosolutionssas",
+  url: "https://www.timosolutionssas.com",
   email: "timosolutionssas@hotmail.com",
   whatsappNumber: import.meta.env.VITE_WHATSAPP_NUMBER || "573203935186",
   address: {

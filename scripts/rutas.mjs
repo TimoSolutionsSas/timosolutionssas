@@ -12,8 +12,10 @@ const AQUI = dirname(fileURLToPath(import.meta.url));
 const RAIZ = resolve(AQUI, "..");
 
 export const REPO = "timosolutionssas";
-export const BASE = `/${REPO}`;
-export const DOMINIO = `https://timosolutionssas.github.io${BASE}`;
+//export const BASE = `/${REPO}`;
+//export const DOMINIO = `https://timosolutionssas.github.io${BASE}`;
+export const BASE = "";
+export const DOMINIO = "https://www.timosolutionssas.com";
 
 /** Rutas fijas. `prioridad` y `frecuencia` solo afectan al sitemap. */
 const FIJAS = [
