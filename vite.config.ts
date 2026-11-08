@@ -7,7 +7,8 @@ import path from "node:path";
 const REPO_NAME = "timosolutionssas";
 
 export default defineConfig(({ mode, isSsrBuild }) => ({
-  base: mode === "production" ? `/${REPO_NAME}/` : "/",
+  //base: mode === "production" ? `/${REPO_NAME}/` : "/",
+  base: "/",
   plugins: [
     react(),
     // El build de servidor (vite build --ssr) solo existe para generar el
@@ -36,7 +37,8 @@ export default defineConfig(({ mode, isSsrBuild }) => ({
           theme_color: "#0B1E3D",
           background_color: "#FFFFFF",
           display: "standalone",
-          start_url: mode === "production" ? `/${REPO_NAME}/` : "/",
+          //start_url: mode === "production" ? `/${REPO_NAME}/` : "/",
+          start_url: "/",
           icons: [
             {
               src: "icons/icon-192.png",
